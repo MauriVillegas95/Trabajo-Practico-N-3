@@ -14,7 +14,7 @@ El propósito de este código es permitir la creación de un vuelo y gestionar r
 
 ## Requisitos previos.
 
-No se requieren librerías o herramientas adicionales para ejecutar este código.
+Se necesita tener **Visual Studio 2022** y **.NET SDK 8.0** instalados en tu máquina para ejecutar este código.
 
 ## Lenguaje
 
