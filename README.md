@@ -22,7 +22,7 @@ Este proyecto está escrito en **C#** utilizando **.NET 8.0**.
 
 ## Instalación y Ejecución
 
-1. Asegúrate de tener **Visual Studio 2022** y **.NET SDK 8.0** instalados en tu máquina. Puedes descargarlo desde [aquí](https://dotnet.microsoft.com/download).
+1. Asegúrate de tener **Visual Studio 2022** y **.NET SDK 8.0** instalados en tu máquina. Podes descargar Visual Studio desde [aquí](https://visualstudio.microsoft.com/es/) y .NET SDK 8.0 desde [aquí](https://dotnet.microsoft.com/download).
 2. Clona el repositorio o descarga los archivos del proyecto.
    ```bash
    git clone https://github.com/MauriVillegas95/Trabajo-Practico-N-3
