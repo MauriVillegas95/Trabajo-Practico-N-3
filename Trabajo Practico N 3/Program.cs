@@ -238,6 +238,7 @@ class Program
                     asientoElejido = true;
                     Console.WriteLine("\nLa fila y el asiento seleccionados no son válidos.");
                     Console.WriteLine("\nSeleccione una fila y una asiento dentro del rango.");
+                    Console.WriteLine("\nPresione ENTER para volver al menu anterior.");
                     Console.ReadLine();
                     break;
                 }
@@ -260,13 +261,13 @@ class Program
                             {
                                 Console.WriteLine("\nSu asiento se encuentra disponible.");
                                 Console.Write("\nReservando asiento");
-                                Thread.Sleep(750);
+                                Thread.Sleep(650);
                                 Console.Write(".");
-                                Thread.Sleep(750);
+                                Thread.Sleep(650);
                                 Console.Write(".");
-                                Thread.Sleep(750);
+                                Thread.Sleep(650);
                                 Console.WriteLine(".");
-                                Thread.Sleep(750);
+                                Thread.Sleep(650);
                                 Console.WriteLine("\nAsiento reservado.");
                                 Thread.Sleep(750);
                                 vuelo[i][j] = 1;
